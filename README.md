@@ -8,7 +8,7 @@ A comprehensive machine learning pipeline for predicting diabetes diagnosis usin
 - **Objective**: Predict diabetes diagnosis (binary classification)
 - **Evaluation Metric**: ROC-AUC Score
 - **Dataset Size**: 700,000 training samples, 300,000 test samples
-- **Class Imbalance**: 62.3% diabetes (positive class) vs 37.7% healthy (negative class)
+- **Class Imbalance**: 62.3% healthy (negative class) vs 37.7% diabetes (positive class)
 
 ## Results
 
