@@ -1,5 +1,4 @@
 # Diabetes Prediction Challenge - Kaggle Playground Series S5E12
-Kaggle Comnpetition: https://www.kaggle.com/competitions/playground-series-s5e12/overview
 
 A comprehensive machine learning pipeline for predicting diabetes diagnosis using ensemble methods and advanced imbalance handling techniques.
 
